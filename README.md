@@ -16,7 +16,7 @@ set on your system preferences the new "italian custom" keyboard  as preferred k
 
 
 
-# Layout italiano per programmatori (con tasti muti per l'inserimento di maiuscole accentate)
+# Layout italiano per programmatori, ma non solo, con tasti muti per l'inserimento di maiuscole accentate
 
 ## generalità
 Questo layout pensato per uso personale da un programmatore italiano, che talvolta deve scrivere in italiano, nasce per rendere disponibili i simboli accento grave (backtick) e tilde. A questi simboli fondamentali, accessibili tramite altgr + 0 per l'accento grave e altgr + ù per tilde ho voluto aggiungere la possibilità di generare le vocali accentate, anche maiuscole, e con entrambe le tipologie di accento con l'uso di un tasto muto raggiungibile col modificatore control. 
