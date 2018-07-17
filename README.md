@@ -5,6 +5,8 @@ This is a keyboard that provides dead keys for strokes and makes available tilde
 
 I also added some symbols under alt-gr+letters for greek letters αβ©δ€φγ, quote marks «» under altgr + "," and "." ± under altgr + "-"
 
+I made this using windows keyboard layout creation tool
+
 ## install
 clone the repo
 
