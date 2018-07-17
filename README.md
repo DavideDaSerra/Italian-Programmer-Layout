@@ -6,13 +6,8 @@ This is a keyboard that provides dead keys for strokes and makes available tilde
 I also added some symbols under alt-gr+letters for greek letters αβ©δ€φγ, quote marks «» under altgr + "," and "." ± under altgr + "-"
 
 ## install
-### on 32 bit windows
-download i386 directory and ITA-GR-D_i386.msi
+clone the repo
 
-### on 64 bit windows
-download amd_64 directory and ITA-GR-D_amd64.msi
-
-
-run the .msi as administrator
+run the setup.exe as administrator
 
 set on your system preferences the new "italian custom" keyboard  as preferred keyboard
